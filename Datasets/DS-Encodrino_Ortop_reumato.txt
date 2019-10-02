@@ -1,0 +1,11 @@
+Cenário:
+Dados analisados com pacientes que já tiveram a história finalizada(ciclo fechado).
+
+Critérios:
+-Data: Dados extraídos de 01/01/2018 à 02/10/2019 
+-Equipes consideradas: Ortopedia, Endocrino, Reumato. (Considerar regras levantadas por Nelson)
+-Município: Marília
+
+QTD     = Quantidade de consultas
+DURACAO = Dias entre o inicio da anamnese até a última evolução.
+EQUIPE  = Equipe do atendimento
