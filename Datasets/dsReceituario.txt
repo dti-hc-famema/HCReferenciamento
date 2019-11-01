@@ -1,0 +1,18 @@
+Cenário:
+Dados analisados com atendimentos realizados
+
+Critérios:
+-Data: Dados extraídos de 01/01/2015 à 01/11/2019 
+-Equipes consideradas: Todas
+-Município: Todos
+-CID:todos
+
+DAT_HORA_ATENDIMENTO=data hora do atendimento
+NOM_ENCAMINHAMENTO=nome do desfecho que teve o atendimento
+NOM_MODALIDADE_ATENDIMENTO=nome da modalidade
+NOM_MUNICIPIO=Municipio do paciente do atendimento
+NOM_EQUIPE=Nome da equipe que atendeu
+NOM_TIPO_CASO=Tipo de caso do atendimento
+IDADE=idade do paciente
+COD_CID=codigo da patologia
+DES_RECEITUARIO_VARCHAR=descrição da receita
