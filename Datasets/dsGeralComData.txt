@@ -1,0 +1,17 @@
+Cenário:
+Dados analisados com pacientes que já tiveram historia, nao necessariamente finalizadas.
+
+Critérios:
+-Data: Dados extraídos de 01/01/2015 à 01/11/2019 
+-Equipes consideradas: Todas
+-Município: Todos
+
+DAT_HORA_ANAMNESE= Quantidade de consultas
+DAT_HORA_EVOLUCAO= Dias entre o inicio da anamnese até a última evolução.
+NOM_EQUIPE= Equipe do atendimento
+SEQ_EQUIPE= id legado
+NOM_UNIDADE_SAUDE= nome da unidade de saude
+NOM_MUNICIPIO=nome do municipio do paciente
+COD_CID=identficação da doença
+SEQ_PACIENTE=id legado
+NOM_PROCEDIMENTO_INTERNO=nome do procedimento assistencial realizado
