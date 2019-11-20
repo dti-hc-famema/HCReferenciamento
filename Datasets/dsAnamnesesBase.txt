@@ -1,0 +1,18 @@
+Contexto:
+Este dataset mostra dados de historias de pacientes (anamneses) e as ocorrencias durante o tratamento. As historias podem estar fechadas ou nao
+
+Periodo: 2010 à 2019
+
+Campos:
+nom_equipe: Nome da equipe que realizou o atendimento
+dat_hora_anamnese: Data/Hora do inicio da historia
+qtd_faltas: Quantidade de faltas de paciente que houveram durante a historia
+dat_ultimo_atendimento: Data/hora do ultimo atendimento do paciente relacionado à historia
+NOM_ENCAMINHAMENTO_FINAL: Nome do ultimo encaminhamento dado ao paciente
+nom_municipio: municipio de residencia do paciente
+nom_unidade_saude: nome da unidade basica a qual o paciente esta vinculado
+idade: idade do paciente
+dat_hora_alta: Se houve alta, data e hora da realização
+id_equipe: identificador unico e anonimizado da equipe
+id_anamnese: identificador unico e anonimizado da anamnese
+id_paciente: identificador unico e anonimizado do paciente
